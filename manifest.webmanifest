@@ -1,0 +1,15 @@
+{
+  "name": "Health Practice App",
+  "short_name": "Health Practice",
+  "description": "Cute revision app for Anatomy for Health Practice (ASPHY-406-1505).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff6fa",
+  "theme_color": "#ffb3d1",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
